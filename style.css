@@ -14,11 +14,14 @@ main{
     text-align: center;
     font-size: 80;
     font-family: 'Times New Roman', Times, serif;
+    flex: 1;
 }
 footer{
     background-color:  rgba(30, 21, 85, 0.959);
     color: rgb(252, 252, 252);
     text-align: center;
+
     font-size: 60;
+    
     font-family: 'Times New Roman', Times, serif;
 }
