@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+header{
+    background-color: rgba(30, 21, 85, 0.959);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+main{
+    background-color: rgba(30, 21, 85, 0.959);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 80;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer{
+    background-color:  rgba(30, 21, 85, 0.959);
+    color: rgb(252, 252, 252);
+    text-align: center;
+    font-size: 60;
+    font-family: 'Times New Roman', Times, serif;
+}
